@@ -1,1 +1,1 @@
-# My view for Laravel
+# My views for Laravel
