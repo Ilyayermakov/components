@@ -1,2 +1,1 @@
-My components for view Laravel
-# components_blade
+# My view for Laravel
